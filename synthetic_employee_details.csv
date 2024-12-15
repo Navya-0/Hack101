@@ -1,0 +1,201 @@
+Email,Employment ID,First Name,Last Name,Employment Details Hire Date,Work Region,Designation,Pay Grade,Competency,Onsite/ Offshore,Allocation Status,Skills
+bking@example.net,77052,William,Hall,2024-10-18,UK/EUROPE - UK,Sr. Consultant II,04-Grade 4,AD,Offshore,On Project - Fulltime,"Core HR,Talent"
+ksmith@example.com,28175,Amanda,Castro,2020-09-24,NA,Associate Consultant,05-Grade 5,SCM,Onsite,On Project - Partial,"Core HR,ORC,Absence"
+derek12@example.com,43763,Adam,Barker,2024-03-20,CORPORATE,Manager I - Delivery,05-Grade 5,ERP Finance,Onsite,Bench,SQL
+nicholaswalker@example.com,40777,Michelle,Vasquez,2020-12-17,UK/EUROPE - UK,Associate Consultant,05-Grade 5,AD,Onsite,Bench,"AP,AR"
+courtney34@example.com,43817,Bryan,Mccoy,2023-04-17,UK/EUROPE - UK,Consultant II,07-Grade 7,PRGM,Onsite,On Project - Fulltime,"Core HR,Talent"
+anthonymoore@example.org,66662,Michael,Bauer,2019-12-30,CORPORATE,Consultant I,05-Grade 5,SCM,Offshore,Bench,"Core HR,Talent"
+amanda64@example.com,76300,Michelle,Allen,2024-03-23,UK/EUROPE - UK,Manager II - Projects,10-Grade 9,HCM,Offshore,On Project - Partial,"AP,AR"
+martinezlindsey@example.org,26537,Michelle,Gibson,2020-11-26,AMEA - KSA,Associate Consultant,T2-Programmer Trainee,HCM,Onsite,On Project - Partial,"Core HR,Talent"
+david41@example.net,81734,Melinda,Fuller,2024-01-29,AMEA - KSA,Manager I - Delivery,04-Grade 4,AD,Offshore,On Project - Partial,"ORC,Talent"
+jacqueline72@example.org,74130,Jamie,Lopez,2019-12-31,AMEA - KSA,Manager II - Projects,05-Grade 5,ERP Finance,Offshore,Freshers Training,"ORC,Talent"
+cindycharles@example.org,64524,Donna,Forbes,2020-07-25,CORPORATE,Manager II - Projects,10-Grade 9,HCM,Onsite,Freshers Training,"Core HR,Talent"
+hblanchard@example.org,66850,Emily,Reyes,2020-04-26,AMEA - KSA,Associate Consultant,09-Grade 9,PRGM,Offshore,Freshers Training,PM
+alyssahanson@example.net,49856,Cory,Hubbard,2024-04-17,AMEA - KSA,Consultant II,09-Grade 9,SCM,Offshore,On Project - Partial,PM
+mark80@example.net,62382,Anna,Russo,2023-06-15,CORPORATE,Manager I - Delivery,T2-Programmer Trainee,AD,Onsite,Bench,"AP,AR"
+matthew35@example.net,12854,Lisa,Stewart,2023-05-30,CORPORATE,Manager II - Projects,09-Grade 9,AD,Onsite,On Project - Fulltime,"ORC,Talent"
+kayla40@example.org,81950,Jacqueline,Calderon,2021-05-21,CORPORATE,Consultant II,07-Grade 7,ERP Finance,Onsite,Bench,"Core HR,Talent"
+aaron53@example.org,26732,Sherri,Rhodes,2020-04-17,CORPORATE,Associate Consultant,07-Grade 7,AD,Offshore,Bench,"Core HR,Talent"
+meganhenry@example.com,65895,Dawn,Spencer,2023-02-01,UK/EUROPE - UK,Consultant I,T2-Programmer Trainee,HCM,Offshore,Freshers Training,"Core HR,Talent"
+vasquezapril@example.org,20397,Samantha,Warren,2021-06-10,AMEA - KSA,Consultant II,05-Grade 5,HCM,Offshore,On Project - Fulltime,"AP,AR"
+catherinechandler@example.com,25483,Edward,Turner,2021-08-15,CORPORATE,Associate Consultant,10-Grade 9,ERP Finance,Onsite,Freshers Training,PM
+vwilson@example.org,48512,Randy,Thompson,2023-01-09,AMEA - KSA,Consultant I,07-Grade 7,AD,Onsite,On Project - Fulltime,PM
+steveanderson@example.org,39340,Valerie,Adams,2021-06-20,UK/EUROPE - UK,Manager I - Delivery,05-Grade 5,ERP Finance,Offshore,On Project - Fulltime,"AP,AR"
+uwilson@example.com,42291,Scott,Thomas,2024-12-12,NA,Manager II - Projects,07-Grade 7,AD,Onsite,Freshers Training,"ORC,Talent"
+patricia90@example.com,36640,Joseph,Estrada,2021-01-16,NA,Consultant II,04-Grade 4,PRGM,Onsite,On Project - Fulltime,SQL
+ddoyle@example.net,38257,Victor,Robinson,2020-07-02,UK/EUROPE - UK,Consultant II,05-Grade 5,HCM,Offshore,Freshers Training,"AP,AR"
+kthomas@example.com,17626,Jacob,Little,2020-03-29,NA,Manager II - Projects,T2-Programmer Trainee,HCM,Offshore,On Project - Fulltime,SQL
+sloanmichele@example.com,69301,Mariah,Burns,2022-09-08,AMEA - KSA,Manager I - Delivery,07-Grade 7,AD,Onsite,On Project - Partial,"AP,AR"
+larryoneill@example.com,75361,Cynthia,Mcintyre,2024-11-22,UK/EUROPE - UK,Manager II - Projects,10-Grade 9,PRGM,Offshore,Bench,"Core HR,ORC,Absence"
+christopher21@example.com,86856,Jeremiah,Hodge,2023-08-10,NA,Consultant II,04-Grade 4,SCM,Offshore,Freshers Training,PM
+rrasmussen@example.com,10890,Luke,Burke,2024-07-28,UK/EUROPE - UK,Sr. Consultant II,04-Grade 4,AD,Offshore,On Project - Fulltime,"Core HR,ORC,Absence"
+gmorris@example.org,97351,Maurice,Coffey,2020-06-14,AMEA - KSA,Manager II - Projects,10-Grade 9,ERP Finance,Offshore,Freshers Training,"Core HR,Talent"
+cooperwilliam@example.net,66921,Dana,Palmer,2021-01-13,AMEA - KSA,Consultant II,07-Grade 7,PRGM,Offshore,On Project - Partial,SQL
+fhoward@example.com,38047,Kathleen,Davis,2020-08-03,UK/EUROPE - UK,Consultant I,10-Grade 9,ERP Finance,Onsite,Bench,"Core HR,Talent"
+iowen@example.com,11250,Laurie,Waller,2020-04-15,UK/EUROPE - UK,Consultant I,07-Grade 7,AD,Offshore,On Project - Partial,"ORC,Talent"
+ashleyjensen@example.net,96871,Eric,Garcia,2021-04-01,NA,Sr. Consultant II,04-Grade 4,SCM,Onsite,On Project - Partial,PM
+millerryan@example.net,34600,Melissa,Jones,2023-01-16,CORPORATE,Consultant I,07-Grade 7,AD,Offshore,On Project - Fulltime,"Core HR,Talent"
+wnewman@example.net,88654,Tamara,Hughes,2020-03-20,UK/EUROPE - UK,Associate Consultant,05-Grade 5,HCM,Offshore,Bench,"ORC,Talent"
+taylorryan@example.com,96592,Allison,Coleman,2023-12-15,CORPORATE,Manager II - Projects,10-Grade 9,HCM,Onsite,On Project - Fulltime,"Core HR,Talent"
+yavila@example.net,86080,Timothy,Carter,2022-12-19,UK/EUROPE - UK,Associate Consultant,04-Grade 4,PRGM,Offshore,On Project - Fulltime,SQL
+rlane@example.org,26375,Maria,Daugherty,2021-02-26,UK/EUROPE - UK,Consultant II,10-Grade 9,PRGM,Offshore,Bench,PM
+kristindavies@example.net,92945,John,Bell,2020-03-23,UK/EUROPE - UK,Consultant II,04-Grade 4,AD,Offshore,On Project - Partial,"Core HR,Talent"
+lisafoster@example.com,89401,Anthony,Burnett,2022-11-10,CORPORATE,Consultant II,04-Grade 4,HCM,Offshore,On Project - Partial,"Core HR,Talent"
+crystal50@example.org,15959,Lisa,Wood,2022-02-03,UK/EUROPE - UK,Manager II - Projects,04-Grade 4,SCM,Onsite,Bench,SQL
+david67@example.com,31579,Katie,Delgado,2020-11-06,UK/EUROPE - UK,Consultant I,09-Grade 9,ERP Finance,Offshore,Bench,"Core HR,Talent"
+cbaker@example.com,75438,Cynthia,Simmons,2021-03-29,AMEA - KSA,Consultant II,T2-Programmer Trainee,AD,Onsite,Freshers Training,"Core HR,Talent"
+karensalazar@example.net,61730,Kaylee,Ford,2023-01-06,CORPORATE,Sr. Consultant II,10-Grade 9,HCM,Offshore,Freshers Training,PM
+vjones@example.com,18208,Crystal,Walton,2024-04-26,NA,Consultant II,04-Grade 4,ERP Finance,Onsite,Freshers Training,"Core HR,Talent"
+ruthdonaldson@example.net,98435,Carla,Solis,2023-01-31,AMEA - KSA,Associate Consultant,09-Grade 9,ERP Finance,Onsite,On Project - Fulltime,"Core HR,Talent"
+jessicagraves@example.org,27983,Steven,Gallegos,2024-05-15,NA,Consultant II,10-Grade 9,PRGM,Offshore,On Project - Fulltime,SQL
+edward08@example.net,60403,Valerie,Wolfe,2023-09-06,CORPORATE,Associate Consultant,05-Grade 5,PRGM,Onsite,On Project - Partial,"ORC,Talent"
+quinnkeith@example.com,91976,Tyler,Harris,2021-04-14,AMEA - KSA,Manager I - Delivery,05-Grade 5,AD,Onsite,On Project - Partial,"AP,AR"
+baldwinjonathan@example.com,85347,Angela,Gonzalez,2021-01-22,UK/EUROPE - UK,Manager II - Projects,04-Grade 4,SCM,Onsite,Bench,"Core HR,Talent"
+kimberlythompson@example.com,88565,Todd,Johnston,2023-06-23,CORPORATE,Manager II - Projects,T2-Programmer Trainee,ERP Finance,Onsite,On Project - Partial,SQL
+anthony00@example.com,57497,Samantha,Potter,2022-04-10,UK/EUROPE - UK,Sr. Consultant II,04-Grade 4,HCM,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+ucollins@example.net,13248,Kimberly,Anderson,2023-03-12,UK/EUROPE - UK,Sr. Consultant II,09-Grade 9,PRGM,Onsite,On Project - Partial,"Core HR,ORC,Absence"
+robertharper@example.com,96224,Miguel,Clark,2022-12-01,NA,Associate Consultant,05-Grade 5,SCM,Offshore,Bench,SQL
+rebeccablack@example.org,16594,Julie,Rose,2021-12-29,CORPORATE,Associate Consultant,09-Grade 9,SCM,Onsite,On Project - Partial,"ORC,Talent"
+roger98@example.com,32306,Sarah,Perez,2022-03-22,NA,Manager I - Delivery,05-Grade 5,ERP Finance,Onsite,On Project - Fulltime,"Core HR,Talent"
+diaztyler@example.com,10582,Rachel,Allen,2023-08-11,AMEA - KSA,Sr. Consultant II,09-Grade 9,ERP Finance,Onsite,On Project - Fulltime,"Core HR,ORC,Absence"
+powellmelissa@example.com,68196,Claudia,Lopez,2020-10-13,UK/EUROPE - UK,Manager I - Delivery,09-Grade 9,AD,Offshore,Freshers Training,"Core HR,ORC,Absence"
+cesarhumphrey@example.org,97940,Kristin,Johnson,2022-05-22,UK/EUROPE - UK,Sr. Consultant II,07-Grade 7,SCM,Onsite,On Project - Partial,"AP,AR"
+morrisonsarah@example.org,66645,Samantha,Pace,2022-02-15,AMEA - KSA,Manager II - Projects,04-Grade 4,PRGM,Onsite,On Project - Fulltime,PM
+campbellbrian@example.net,73849,Sydney,Miller,2021-10-17,CORPORATE,Consultant I,10-Grade 9,PRGM,Offshore,On Project - Fulltime,"AP,AR"
+travis75@example.net,92271,Mary,Young,2021-04-17,AMEA - KSA,Associate Consultant,09-Grade 9,ERP Finance,Onsite,On Project - Partial,"Core HR,Talent"
+nguyensteven@example.net,94925,Heather,Cox,2021-11-22,UK/EUROPE - UK,Manager II - Projects,07-Grade 7,AD,Onsite,On Project - Partial,"AP,AR"
+mark83@example.com,27449,Steven,Donaldson,2023-09-07,AMEA - KSA,Sr. Consultant II,10-Grade 9,PRGM,Onsite,Bench,SQL
+daniel56@example.net,20810,Kyle,Greene,2024-06-27,UK/EUROPE - UK,Consultant II,04-Grade 4,SCM,Offshore,Freshers Training,"ORC,Talent"
+timothy36@example.com,25491,Paul,Nguyen,2022-02-23,AMEA - KSA,Associate Consultant,04-Grade 4,SCM,Onsite,On Project - Partial,"AP,AR"
+westmichael@example.net,97125,Michael,Stokes,2022-02-02,UK/EUROPE - UK,Associate Consultant,10-Grade 9,PRGM,Onsite,On Project - Fulltime,"Core HR,ORC,Absence"
+pearsonshawn@example.com,73488,Melissa,Collins,2024-01-01,CORPORATE,Consultant I,09-Grade 9,AD,Offshore,Freshers Training,PM
+joseph92@example.com,48599,Juan,Jackson,2023-10-29,AMEA - KSA,Manager II - Projects,04-Grade 4,AD,Offshore,On Project - Fulltime,"Core HR,Talent"
+tsutton@example.net,78416,Christopher,Douglas,2021-04-21,NA,Manager I - Delivery,10-Grade 9,SCM,Offshore,Freshers Training,"ORC,Talent"
+fosterlisa@example.net,19848,Brittany,Villa,2022-03-04,UK/EUROPE - UK,Consultant II,10-Grade 9,PRGM,Offshore,On Project - Partial,PM
+jennifer56@example.org,16888,Kevin,Kennedy,2022-03-31,NA,Consultant I,04-Grade 4,SCM,Offshore,Freshers Training,SQL
+jward@example.org,42862,Jimmy,Turner,2024-09-20,CORPORATE,Associate Consultant,T2-Programmer Trainee,ERP Finance,Onsite,Freshers Training,"Core HR,ORC,Absence"
+alijenny@example.com,48267,Stephen,Lewis,2024-11-04,UK/EUROPE - UK,Consultant I,07-Grade 7,ERP Finance,Onsite,On Project - Fulltime,"ORC,Talent"
+smithjames@example.org,49140,Regina,Oliver,2024-01-12,AMEA - KSA,Manager II - Projects,04-Grade 4,HCM,Onsite,Bench,"ORC,Talent"
+marybass@example.com,80045,Jennifer,Wallace,2022-07-23,UK/EUROPE - UK,Associate Consultant,05-Grade 5,PRGM,Offshore,On Project - Fulltime,"Core HR,Talent"
+dalvarez@example.com,32893,Kevin,Mills,2022-03-29,CORPORATE,Manager I - Delivery,04-Grade 4,ERP Finance,Onsite,On Project - Partial,SQL
+dawn44@example.org,10295,Sheila,Hall,2023-05-13,UK/EUROPE - UK,Consultant II,T2-Programmer Trainee,SCM,Offshore,On Project - Partial,SQL
+cynthiacampbell@example.com,75375,Tammy,Morris,2020-02-02,AMEA - KSA,Sr. Consultant II,10-Grade 9,AD,Onsite,On Project - Fulltime,SQL
+seancruz@example.com,61094,Danny,Mayo,2024-12-03,AMEA - KSA,Manager I - Delivery,10-Grade 9,AD,Offshore,Freshers Training,PM
+cynthia63@example.com,82283,Martin,Collins,2024-01-27,AMEA - KSA,Associate Consultant,05-Grade 5,ERP Finance,Onsite,Bench,"Core HR,Talent"
+renee85@example.net,72534,Shawn,Wilson,2023-07-28,UK/EUROPE - UK,Consultant II,07-Grade 7,HCM,Onsite,Bench,"AP,AR"
+kenneth22@example.com,65901,Angela,Taylor,2024-06-03,CORPORATE,Associate Consultant,04-Grade 4,PRGM,Onsite,On Project - Fulltime,"AP,AR"
+james76@example.org,72533,Angela,Miller,2024-10-29,AMEA - KSA,Consultant I,T2-Programmer Trainee,HCM,Offshore,Freshers Training,"ORC,Talent"
+jrobinson@example.com,89272,Richard,Sweeney,2020-01-18,AMEA - KSA,Consultant II,09-Grade 9,AD,Offshore,On Project - Partial,"ORC,Talent"
+chenrichard@example.com,31032,Michael,Arellano,2020-12-09,UK/EUROPE - UK,Associate Consultant,05-Grade 5,SCM,Onsite,Bench,"Core HR,Talent"
+odavis@example.com,60050,Robert,Friedman,2022-06-03,AMEA - KSA,Consultant II,04-Grade 4,PRGM,Offshore,On Project - Partial,PM
+hchoi@example.net,89379,Patrick,Brown,2019-12-19,UK/EUROPE - UK,Associate Consultant,09-Grade 9,ERP Finance,Onsite,On Project - Fulltime,"ORC,Talent"
+jacksoncharles@example.org,43854,Michelle,Schneider,2022-07-07,AMEA - KSA,Associate Consultant,07-Grade 7,SCM,Onsite,Freshers Training,"AP,AR"
+ijohnson@example.org,13718,Kyle,Hudson,2023-01-24,CORPORATE,Consultant II,10-Grade 9,PRGM,Onsite,Freshers Training,"ORC,Talent"
+tracymccormick@example.net,89991,Annette,Parker,2023-09-11,UK/EUROPE - UK,Associate Consultant,04-Grade 4,AD,Onsite,On Project - Partial,PM
+freemanstephen@example.org,91261,Kenneth,Acosta,2020-03-15,UK/EUROPE - UK,Consultant II,10-Grade 9,HCM,Offshore,Bench,SQL
+frank01@example.org,41178,Karen,Roberts,2022-06-18,AMEA - KSA,Associate Consultant,07-Grade 7,PRGM,Onsite,On Project - Fulltime,"ORC,Talent"
+craig96@example.org,22534,Clarence,Adams,2021-06-05,CORPORATE,Sr. Consultant II,05-Grade 5,AD,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+alexanderkeith@example.com,12864,Ashlee,White,2020-01-09,CORPORATE,Sr. Consultant II,05-Grade 5,HCM,Offshore,On Project - Fulltime,"AP,AR"
+steven67@example.net,89054,Erik,Martinez,2023-06-20,CORPORATE,Consultant II,T2-Programmer Trainee,PRGM,Onsite,On Project - Fulltime,"Core HR,ORC,Absence"
+chad20@example.net,16990,Melanie,Rodriguez,2024-08-09,UK/EUROPE - UK,Consultant I,05-Grade 5,HCM,Offshore,Bench,"Core HR,ORC,Absence"
+qavery@example.org,45921,Melanie,Holloway,2022-01-17,CORPORATE,Consultant I,05-Grade 5,AD,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+donna68@example.org,11459,Cheryl,Gilmore,2023-08-29,NA,Sr. Consultant II,T2-Programmer Trainee,ERP Finance,Onsite,On Project - Fulltime,SQL
+torrescynthia@example.com,82013,Samuel,Charles,2023-11-21,NA,Consultant I,09-Grade 9,SCM,Offshore,On Project - Partial,SQL
+huntermario@example.net,51632,Adam,Chapman,2023-11-03,NA,Manager I - Delivery,T2-Programmer Trainee,ERP Finance,Offshore,Bench,"AP,AR"
+jennifergriffin@example.com,86147,Brett,Tucker,2024-06-14,AMEA - KSA,Manager I - Delivery,09-Grade 9,ERP Finance,Offshore,Freshers Training,PM
+josephcross@example.net,27025,Amy,Carter,2020-02-18,AMEA - KSA,Manager I - Delivery,07-Grade 7,SCM,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+gpena@example.com,58292,Mary,Morales,2021-11-26,CORPORATE,Sr. Consultant II,09-Grade 9,ERP Finance,Offshore,Freshers Training,"AP,AR"
+riverarobert@example.org,28175,Alan,Davis,2022-10-06,NA,Associate Consultant,05-Grade 5,PRGM,Onsite,On Project - Fulltime,SQL
+bryandean@example.net,73636,Kiara,Gibson,2023-07-07,NA,Consultant II,07-Grade 7,AD,Offshore,On Project - Partial,"ORC,Talent"
+ashort@example.com,93356,Laura,Holmes,2020-12-07,CORPORATE,Sr. Consultant II,T2-Programmer Trainee,SCM,Offshore,Freshers Training,"AP,AR"
+bmitchell@example.org,98604,Charles,Jarvis,2020-05-09,NA,Manager I - Delivery,T2-Programmer Trainee,AD,Onsite,On Project - Partial,"ORC,Talent"
+sherryhernandez@example.net,69017,Connie,Benson,2019-12-23,UK/EUROPE - UK,Consultant I,09-Grade 9,HCM,Onsite,On Project - Fulltime,PM
+millerjohnny@example.org,42756,Samantha,Nash,2023-06-13,AMEA - KSA,Manager I - Delivery,T2-Programmer Trainee,ERP Finance,Onsite,On Project - Partial,"AP,AR"
+marshallleslie@example.org,17975,Timothy,Fox,2021-10-07,CORPORATE,Manager I - Delivery,04-Grade 4,PRGM,Offshore,Bench,SQL
+hernandezryan@example.com,92580,Robert,Wright,2020-09-04,AMEA - KSA,Sr. Consultant II,07-Grade 7,PRGM,Offshore,Bench,"Core HR,Talent"
+zacharycruz@example.com,52149,Allison,Phillips,2020-08-01,AMEA - KSA,Manager II - Projects,05-Grade 5,AD,Onsite,On Project - Fulltime,SQL
+swilliams@example.org,62639,Michael,Lynn,2022-07-28,NA,Consultant II,T2-Programmer Trainee,ERP Finance,Offshore,On Project - Partial,"AP,AR"
+woodslawrence@example.net,71319,Amanda,Williams,2021-05-06,CORPORATE,Consultant I,T2-Programmer Trainee,HCM,Onsite,Bench,"Core HR,ORC,Absence"
+swoods@example.net,46145,Rhonda,Luna,2023-08-17,CORPORATE,Manager I - Delivery,09-Grade 9,SCM,Onsite,On Project - Partial,PM
+twood@example.com,70675,Ricardo,Schultz,2021-04-05,CORPORATE,Manager II - Projects,09-Grade 9,HCM,Onsite,On Project - Fulltime,"AP,AR"
+melissa33@example.com,26302,Michael,Hall,2024-01-16,AMEA - KSA,Consultant II,04-Grade 4,HCM,Offshore,Bench,"ORC,Talent"
+amber48@example.net,51305,Glen,Mitchell,2022-08-09,AMEA - KSA,Associate Consultant,07-Grade 7,PRGM,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+austin34@example.net,69950,Kimberly,Harrison,2021-04-17,AMEA - KSA,Associate Consultant,07-Grade 7,HCM,Offshore,Bench,"Core HR,ORC,Absence"
+qmadden@example.net,18481,Derrick,Johns,2024-05-14,UK/EUROPE - UK,Manager I - Delivery,T2-Programmer Trainee,ERP Finance,Offshore,On Project - Fulltime,"AP,AR"
+katherine11@example.org,77020,Stephanie,Barnett,2020-04-12,UK/EUROPE - UK,Sr. Consultant II,05-Grade 5,AD,Onsite,On Project - Partial,"ORC,Talent"
+jessica93@example.net,22628,Cynthia,Huffman,2023-09-23,NA,Manager II - Projects,04-Grade 4,AD,Onsite,Bench,"AP,AR"
+kimberly96@example.net,50282,Heather,Terry,2024-05-19,CORPORATE,Consultant I,05-Grade 5,SCM,Onsite,Freshers Training,"Core HR,Talent"
+castrotheresa@example.net,96491,Michelle,Moore,2024-03-08,UK/EUROPE - UK,Consultant II,10-Grade 9,ERP Finance,Onsite,Freshers Training,SQL
+qlee@example.org,28720,Nancy,Cline,2023-04-10,UK/EUROPE - UK,Associate Consultant,T2-Programmer Trainee,SCM,Offshore,On Project - Fulltime,"Core HR,ORC,Absence"
+pattonjeffrey@example.com,60837,Maureen,Butler,2024-07-07,UK/EUROPE - UK,Consultant I,07-Grade 7,AD,Onsite,On Project - Partial,"AP,AR"
+xmueller@example.com,99360,Jose,Kline,2023-02-28,NA,Manager I - Delivery,T2-Programmer Trainee,SCM,Onsite,Bench,PM
+tina64@example.net,82231,Paul,Guzman,2021-03-01,AMEA - KSA,Consultant I,07-Grade 7,HCM,Offshore,Bench,"AP,AR"
+williamsapril@example.net,98592,Jenny,Johnson,2023-07-16,CORPORATE,Consultant I,09-Grade 9,SCM,Offshore,On Project - Partial,SQL
+kadams@example.net,63560,Heather,Wang,2023-11-08,CORPORATE,Consultant II,09-Grade 9,ERP Finance,Offshore,On Project - Fulltime,"Core HR,ORC,Absence"
+keith84@example.net,70651,Tiffany,Lane,2024-11-29,AMEA - KSA,Manager I - Delivery,T2-Programmer Trainee,ERP Finance,Onsite,On Project - Partial,"Core HR,Talent"
+allenchristie@example.net,11389,Tyler,Riggs,2020-10-23,AMEA - KSA,Consultant I,07-Grade 7,PRGM,Offshore,On Project - Fulltime,"AP,AR"
+martinezalice@example.com,46691,Sarah,White,2020-03-26,NA,Consultant I,04-Grade 4,SCM,Onsite,On Project - Fulltime,"Core HR,ORC,Absence"
+gaguilar@example.com,57298,Jeffrey,Allen,2023-02-14,UK/EUROPE - UK,Manager I - Delivery,05-Grade 5,HCM,Onsite,On Project - Fulltime,SQL
+jonesbrooke@example.org,64446,Eric,Sanchez,2022-05-24,AMEA - KSA,Manager I - Delivery,09-Grade 9,AD,Offshore,On Project - Fulltime,SQL
+kristenpotter@example.com,29106,Gene,Phillips,2021-12-31,AMEA - KSA,Consultant II,09-Grade 9,ERP Finance,Offshore,Bench,SQL
+seanwade@example.org,99577,Rachel,Wells,2022-11-20,CORPORATE,Associate Consultant,04-Grade 4,PRGM,Offshore,Bench,"Core HR,Talent"
+daniel74@example.net,52043,Christian,Day,2020-07-24,NA,Consultant I,09-Grade 9,SCM,Offshore,On Project - Fulltime,SQL
+omann@example.net,92034,Daniel,Rodriguez,2024-05-03,UK/EUROPE - UK,Manager I - Delivery,09-Grade 9,SCM,Onsite,Freshers Training,"ORC,Talent"
+sanderson@example.net,66170,Jeffrey,Velez,2023-11-10,NA,Sr. Consultant II,07-Grade 7,AD,Offshore,Bench,"Core HR,Talent"
+riosdawn@example.com,72698,Lisa,Hicks,2021-07-30,CORPORATE,Consultant II,05-Grade 5,ERP Finance,Onsite,On Project - Fulltime,"ORC,Talent"
+anne54@example.org,28194,Aaron,Ramirez,2021-02-16,NA,Sr. Consultant II,10-Grade 9,AD,Onsite,Bench,"ORC,Talent"
+fgonzalez@example.org,70250,Kelly,Haas,2023-08-27,CORPORATE,Manager I - Delivery,07-Grade 7,ERP Finance,Offshore,Bench,SQL
+autumn48@example.org,67592,Ashley,Ramos,2024-08-20,CORPORATE,Consultant I,07-Grade 7,AD,Onsite,Freshers Training,PM
+wortiz@example.com,91158,James,Maldonado,2021-02-24,CORPORATE,Manager II - Projects,05-Grade 5,PRGM,Offshore,On Project - Partial,"Core HR,ORC,Absence"
+ronalddavis@example.org,88830,Lisa,Garcia,2022-05-13,NA,Sr. Consultant II,10-Grade 9,ERP Finance,Onsite,Freshers Training,SQL
+gardnerrandy@example.com,78671,Noah,Gonzalez,2023-02-21,AMEA - KSA,Manager I - Delivery,04-Grade 4,AD,Onsite,On Project - Fulltime,"Core HR,Talent"
+jennifer32@example.net,82103,Christopher,Anderson,2021-11-28,AMEA - KSA,Manager I - Delivery,04-Grade 4,PRGM,Onsite,On Project - Fulltime,PM
+theresaperry@example.com,32093,James,Patterson,2022-01-04,AMEA - KSA,Consultant II,04-Grade 4,PRGM,Onsite,On Project - Fulltime,SQL
+hickskimberly@example.org,52002,Ashley,Shaw,2020-05-27,CORPORATE,Consultant I,T2-Programmer Trainee,SCM,Offshore,Bench,"ORC,Talent"
+brandon91@example.net,33920,Angela,Brown,2020-12-16,CORPORATE,Associate Consultant,10-Grade 9,ERP Finance,Offshore,Bench,"AP,AR"
+ashleyjones@example.org,12776,Rebecca,Gray,2020-02-17,CORPORATE,Manager II - Projects,07-Grade 7,PRGM,Offshore,On Project - Fulltime,"AP,AR"
+michelle25@example.net,53192,Sarah,Hurley,2021-09-29,UK/EUROPE - UK,Manager I - Delivery,07-Grade 7,HCM,Offshore,On Project - Fulltime,SQL
+jhernandez@example.org,78950,Lisa,Martinez,2020-02-13,AMEA - KSA,Sr. Consultant II,04-Grade 4,PRGM,Offshore,On Project - Fulltime,PM
+nburgess@example.net,50889,Christopher,Cabrera,2020-08-18,NA,Associate Consultant,05-Grade 5,PRGM,Onsite,On Project - Fulltime,SQL
+rspears@example.com,32851,Dawn,Fisher,2020-09-09,NA,Consultant I,T2-Programmer Trainee,SCM,Onsite,Freshers Training,"AP,AR"
+jeff27@example.org,61751,Keith,Boyer,2023-10-28,AMEA - KSA,Associate Consultant,09-Grade 9,AD,Offshore,On Project - Fulltime,PM
+lcollins@example.net,47809,Travis,Jones,2023-02-10,NA,Consultant II,05-Grade 5,ERP Finance,Onsite,On Project - Partial,SQL
+allison77@example.com,90894,Pamela,Melton,2021-05-06,CORPORATE,Associate Consultant,07-Grade 7,SCM,Onsite,Bench,SQL
+lisarosales@example.net,54620,Andrew,Carter,2023-04-03,AMEA - KSA,Sr. Consultant II,09-Grade 9,HCM,Offshore,On Project - Partial,PM
+nelsonlacey@example.org,39285,Mark,Stewart,2024-04-02,AMEA - KSA,Manager I - Delivery,05-Grade 5,ERP Finance,Onsite,Bench,SQL
+bradleyconnie@example.com,14407,Amanda,Johnson,2021-11-07,UK/EUROPE - UK,Associate Consultant,05-Grade 5,SCM,Onsite,On Project - Partial,SQL
+emma55@example.com,41331,Brian,Graham,2021-07-29,CORPORATE,Manager I - Delivery,04-Grade 4,HCM,Offshore,Freshers Training,"AP,AR"
+robertsonnicole@example.org,53166,Shaun,Robinson,2020-05-23,AMEA - KSA,Consultant I,10-Grade 9,HCM,Onsite,On Project - Partial,SQL
+perezdavid@example.com,82850,Donald,Martin,2022-06-02,CORPORATE,Consultant II,09-Grade 9,HCM,Onsite,On Project - Partial,SQL
+smithharold@example.org,13245,William,Williams,2021-04-15,NA,Sr. Consultant II,T2-Programmer Trainee,ERP Finance,Onsite,On Project - Fulltime,"ORC,Talent"
+eric48@example.net,35081,Monica,Roberts,2024-07-07,AMEA - KSA,Associate Consultant,05-Grade 5,AD,Onsite,Freshers Training,PM
+elizabeth08@example.com,44688,Lisa,Reynolds,2022-09-13,AMEA - KSA,Associate Consultant,T2-Programmer Trainee,AD,Onsite,Freshers Training,PM
+julierobles@example.org,35953,Mark,Gutierrez,2023-08-31,NA,Consultant II,T2-Programmer Trainee,PRGM,Onsite,On Project - Fulltime,SQL
+bill24@example.net,38491,Jose,Thompson,2023-10-19,CORPORATE,Consultant I,09-Grade 9,AD,Offshore,On Project - Fulltime,"Core HR,Talent"
+millerandrew@example.net,67566,Jason,Ruiz,2021-11-17,CORPORATE,Manager II - Projects,05-Grade 5,HCM,Offshore,Freshers Training,"Core HR,ORC,Absence"
+maryhenry@example.net,84334,Michael,Lewis,2020-02-24,UK/EUROPE - UK,Associate Consultant,10-Grade 9,PRGM,Offshore,On Project - Fulltime,"Core HR,Talent"
+amandamartin@example.net,57722,Summer,Payne,2020-05-19,CORPORATE,Consultant I,10-Grade 9,SCM,Offshore,On Project - Fulltime,"Core HR,Talent"
+chelseahart@example.com,68839,Donna,Khan,2023-07-11,AMEA - KSA,Associate Consultant,09-Grade 9,ERP Finance,Offshore,On Project - Fulltime,SQL
+ashley31@example.org,22877,Bobby,Park,2023-11-26,AMEA - KSA,Associate Consultant,09-Grade 9,AD,Onsite,Freshers Training,"Core HR,ORC,Absence"
+hoffmangary@example.com,51834,Mike,Brooks,2021-07-20,UK/EUROPE - UK,Manager II - Projects,09-Grade 9,SCM,Offshore,On Project - Fulltime,SQL
+smithkevin@example.com,33174,Gregory,Foster,2023-06-24,CORPORATE,Manager II - Projects,09-Grade 9,ERP Finance,Onsite,On Project - Fulltime,SQL
+dawsonrebecca@example.org,54444,Bryan,Lowe,2023-11-01,NA,Consultant I,04-Grade 4,ERP Finance,Onsite,On Project - Partial,"ORC,Talent"
+debbiewilcox@example.org,66959,Jeffery,Jones,2024-07-01,CORPORATE,Sr. Consultant II,07-Grade 7,SCM,Onsite,Bench,PM
+ehicks@example.org,34852,Jared,Acevedo,2023-04-04,CORPORATE,Consultant I,T2-Programmer Trainee,SCM,Onsite,Bench,SQL
+gregoryburton@example.net,29348,Joseph,Weaver,2020-06-16,AMEA - KSA,Manager I - Delivery,04-Grade 4,PRGM,Onsite,Freshers Training,SQL
+websterchristian@example.org,51509,Molly,Cox,2020-12-26,AMEA - KSA,Consultant II,09-Grade 9,ERP Finance,Onsite,On Project - Fulltime,"Core HR,ORC,Absence"
+davidsonstephanie@example.com,93221,Kevin,Barton,2022-11-18,CORPORATE,Manager I - Delivery,05-Grade 5,PRGM,Offshore,Bench,"Core HR,Talent"
+todd68@example.net,71679,Harry,Stewart,2022-04-13,CORPORATE,Consultant I,10-Grade 9,SCM,Offshore,Freshers Training,"Core HR,Talent"
+uwilliams@example.org,34660,Joseph,Moody,2023-02-14,NA,Associate Consultant,T2-Programmer Trainee,SCM,Onsite,On Project - Partial,"Core HR,ORC,Absence"
+zachary49@example.net,74956,Cynthia,Anderson,2020-10-05,UK/EUROPE - UK,Manager I - Delivery,10-Grade 9,AD,Onsite,On Project - Partial,"Core HR,Talent"
+scottjames@example.org,49518,David,Roberts,2022-09-05,CORPORATE,Consultant II,07-Grade 7,HCM,Offshore,Freshers Training,"ORC,Talent"
+laura60@example.com,81403,Kevin,Payne,2022-02-02,UK/EUROPE - UK,Sr. Consultant II,07-Grade 7,HCM,Offshore,On Project - Partial,"AP,AR"
+ftorres@example.net,32118,Carlos,Salinas,2020-05-28,NA,Manager I - Delivery,05-Grade 5,AD,Offshore,On Project - Fulltime,PM
+blairsherri@example.net,16085,Robert,Arroyo,2020-05-21,NA,Consultant I,09-Grade 9,AD,Onsite,On Project - Fulltime,PM
+geraldmoran@example.org,96445,Timothy,Kennedy,2020-12-07,UK/EUROPE - UK,Manager II - Projects,07-Grade 7,HCM,Onsite,Bench,"Core HR,Talent"
+christopherlara@example.net,11180,Shawn,Zhang,2023-01-14,UK/EUROPE - UK,Associate Consultant,07-Grade 7,ERP Finance,Onsite,On Project - Partial,"Core HR,ORC,Absence"
+isampson@example.com,18182,Samantha,Charles,2022-07-29,AMEA - KSA,Consultant I,10-Grade 9,ERP Finance,Onsite,Freshers Training,SQL
+russojoyce@example.net,65171,Richard,Adams,2022-03-24,AMEA - KSA,Sr. Consultant II,09-Grade 9,PRGM,Onsite,Freshers Training,"Core HR,ORC,Absence"
+torresphilip@example.net,76596,Scott,Carson,2022-10-03,NA,Associate Consultant,07-Grade 7,PRGM,Onsite,Freshers Training,"Core HR,ORC,Absence"
+patricia84@example.net,80562,Evan,Thompson,2022-06-07,CORPORATE,Manager I - Delivery,05-Grade 5,SCM,Onsite,On Project - Fulltime,SQL
+stephanieanderson@example.com,87147,Alexis,Pittman,2023-09-22,AMEA - KSA,Manager I - Delivery,07-Grade 7,SCM,Offshore,Bench,"Core HR,ORC,Absence"

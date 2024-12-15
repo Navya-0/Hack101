@@ -1,0 +1,201 @@
+Demand ID,Role Status,Region,Project Name,Project Type,Demand Received Date,Track,Location Shore,Primary Skill (Must have),Grade,Role Start Date,Role End Date,Number of FTE
+8475,Open,AMEA,"Mullins, Green and Davis",CEMS,2024-11-07,FIN,Offshore,Core HR & Payroll,G8,2025-08-17,2026-11-27,0.7
+9212,Staffed,EUK,Brandt-Oliver,Impl,2024-11-29,FIN,Offshore,Core HR & Payroll,G10,2025-07-12,2026-07-16,0.8
+7718,Staffed,EUK,"Griffin, Brown and Simpson",Impl,2024-06-30,HCM,Offshore,Redwood HCM - Core HR and ORC,T2,2025-11-04,2025-12-25,0.8
+5976,Open,EUK,Smith-Washington,CEMS,2024-05-23,FIN,Onsite,Redwood HCM - Core HR and ORC,G6,2025-01-08,2026-05-27,0.8
+1985,Open,EUK,Bentley-Clark,CEMS,2024-11-06,HCM,Onsite,Onboarding Journeys,T2,2025-11-10,2026-02-25,0.7
+4007,Staffed,AMEA,Soto Ltd,CEMS,2024-08-30,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-12-07,2026-11-09,0.8
+7113,Open,EUK,"Blake, Mayer and Goodwin",Impl,2024-05-17,FIN,Onsite,Core HR & Payroll,G8,2025-03-28,2026-10-19,0.6
+5061,Staffed,NA,Giles-Lewis,CEMS,2024-10-31,FIN,Onsite,Onboarding Journeys,G5,2025-08-26,2026-07-20,0.7
+5764,Staffed,AMEA,Hurley-Garcia,CEMS,2024-02-07,HCM,Offshore,Onboarding Journeys,T2,2025-07-30,2026-12-06,0.5
+9182,Open,EUK,Edwards-Davila,Impl,2024-07-27,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-01-25,2026-02-18,0.5
+1554,Staffed,EUK,Hoffman-Boyd,CEMS,2024-01-22,FIN,Onsite,Onboarding Journeys,T2,2025-07-16,2026-05-19,0.7
+2388,Open,NA,"Curtis, Riley and Bradshaw",CEMS,2024-12-08,FIN,Onsite,Onboarding Journeys,G8,2025-10-21,2026-04-11,0.9
+5005,Open,EUK,Anderson-Sosa,Impl,2024-11-03,FIN,Offshore,Redwood HCM - Core HR and ORC,T2,2025-01-13,2026-06-28,0.6
+8700,Staffed,EUK,"Russo, Johnson and Wright",CEMS,2024-07-21,HCM,Onsite,Redwood HCM - Core HR and ORC,T2,2025-06-08,2026-05-05,0.6
+5834,Staffed,AMEA,Reynolds-Fritz,CEMS,2024-02-25,HCM,Offshore,Onboarding Journeys,G5,2025-08-28,2026-07-21,0.9
+2500,Open,NA,Anderson PLC,Impl,2024-01-30,FIN,Offshore,Onboarding Journeys,G10,2025-10-03,2026-04-04,0.5
+7657,Staffed,AMEA,Smith-Sanchez,Impl,2024-05-23,HCM,Onsite,Onboarding Journeys,T2,2025-02-21,2025-12-18,0.7
+9762,Staffed,AMEA,Gonzalez Ltd,CEMS,2024-11-16,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-06-09,2026-09-01,0.9
+8090,Open,NA,Kennedy and Sons,Impl,2024-08-14,HCM,Offshore,Onboarding Journeys,G6,2025-05-27,2026-08-31,0.9
+2001,Open,NA,"Heath, Bell and Coleman",Impl,2024-10-31,FIN,Offshore,Onboarding Journeys,G8,2025-11-20,2026-10-30,0.7
+3669,Staffed,NA,"Johnson, Huynh and Gaines",CEMS,2024-02-19,HCM,Onsite,Redwood HCM - Core HR and ORC,G10,2025-10-04,2026-08-06,0.5
+9233,Staffed,AMEA,Carter Inc,Impl,2024-03-17,HCM,Onsite,Redwood HCM - Core HR and ORC,G10,2025-07-03,2026-09-25,0.7
+8095,Open,AMEA,Shaw and Sons,CEMS,2024-01-20,HCM,Offshore,Onboarding Journeys,T2,2025-07-19,2026-09-08,0.5
+5352,Staffed,AMEA,Miller and Sons,Impl,2024-05-28,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-08-07,2026-10-18,0.6
+6596,Open,AMEA,Hall-Cross,Impl,2024-06-23,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-07-15,2026-04-06,0.8
+4281,Open,AMEA,Hines LLC,Impl,2024-01-22,FIN,Onsite,Onboarding Journeys,T2,2025-07-18,2026-04-27,0.7
+2888,Staffed,AMEA,Moses-Smith,Impl,2024-06-28,HCM,Offshore,Redwood HCM - Core HR and ORC,G5,2025-02-24,2026-07-01,1.0
+7172,Open,EUK,Jones Ltd,Impl,2024-06-05,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-06-15,2026-07-28,0.6
+3380,Staffed,NA,"Davidson, Kelley and Riley",CEMS,2024-10-29,HCM,Onsite,"Core HR,Talent",G5,2025-10-09,2026-04-09,0.7
+1179,Staffed,EUK,Bishop-Chapman,CEMS,2024-11-04,FIN,Onsite,Redwood HCM - Core HR and ORC,G6,2025-10-09,2026-02-19,0.6
+8485,Staffed,AMEA,Brandt PLC,CEMS,2024-02-04,FIN,Offshore,Redwood HCM - Core HR and ORC,G6,2025-02-04,2025-12-16,0.6
+9041,Open,EUK,Stokes-Olson,Impl,2024-03-01,HCM,Offshore,Redwood HCM - Core HR and ORC,G10,2024-12-15,2026-12-04,0.7
+5931,Staffed,NA,Gonzales PLC,Impl,2024-02-02,HCM,Onsite,Core HR & Payroll,G10,2025-09-18,2025-12-24,0.8
+5229,Staffed,NA,Griffin-Caldwell,Impl,2024-10-15,FIN,Offshore,Onboarding Journeys,G5,2025-12-14,2026-10-26,0.7
+8941,Open,NA,Pope Inc,CEMS,2024-04-26,HCM,Onsite,Onboarding Journeys,G8,2025-07-12,2026-11-08,0.9
+6313,Staffed,EUK,Tate and Sons,CEMS,2024-08-23,HCM,Offshore,"Core HR,Talent",G8,2025-03-14,2026-11-18,0.6
+2498,Staffed,EUK,"White, Martin and Ray",CEMS,2024-04-02,HCM,Onsite,Redwood HCM - Core HR and ORC,G10,2025-05-03,2026-11-28,0.9
+9737,Open,EUK,"Perez, Newman and Salinas",Impl,2024-04-19,HCM,Offshore,Core HR & Payroll,G5,2025-10-23,2025-12-15,0.6
+3876,Open,NA,Brown-Reed,CEMS,2024-01-25,FIN,Onsite,Core HR & Payroll,G8,2025-04-01,2026-06-29,0.8
+3087,Open,EUK,"Nash, Smith and Wagner",Impl,2024-08-28,HCM,Onsite,Onboarding Journeys,G5,2025-03-29,2026-09-30,0.7
+9125,Staffed,EUK,"Griffin, Collins and Obrien",Impl,2024-01-26,FIN,Onsite,Core HR & Payroll,T2,2025-09-09,2026-01-10,0.8
+8128,Staffed,AMEA,White-Schmitt,CEMS,2024-10-30,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-06-10,2026-03-15,0.6
+9712,Staffed,AMEA,Lawson-Sherman,Impl,2023-12-30,HCM,Onsite,"Core HR,Talent",T2,2025-12-07,2026-09-22,0.9
+9301,Staffed,NA,Lopez Ltd,CEMS,2024-11-28,HCM,Onsite,Onboarding Journeys,G10,2025-02-14,2026-07-29,0.6
+8017,Open,AMEA,Ferrell and Sons,CEMS,2024-06-17,FIN,Onsite,"Core HR,Talent",G10,2025-06-21,2026-06-06,0.9
+4600,Staffed,EUK,Martinez Ltd,Impl,2024-05-04,FIN,Offshore,"Core HR,Talent",T2,2025-01-25,2026-02-24,1.0
+1599,Staffed,EUK,"Conley, Mccoy and Williams",Impl,2024-07-15,HCM,Offshore,Core HR & Payroll,G5,2025-01-22,2026-04-21,0.8
+9410,Staffed,AMEA,"Moore, Smith and Johnson",Impl,2024-05-27,FIN,Onsite,Redwood HCM - Core HR and ORC,T2,2025-11-01,2026-05-12,1.0
+2588,Staffed,AMEA,"Lee, Lam and Mason",Impl,2024-08-22,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-04-05,2026-04-02,0.7
+9103,Open,AMEA,Massey-Brown,Impl,2024-07-07,HCM,Onsite,"Core HR,Talent",G6,2025-04-01,2026-02-16,0.9
+3943,Open,EUK,Olson Group,Impl,2024-09-09,FIN,Onsite,Onboarding Journeys,G8,2025-08-08,2026-05-04,0.9
+6188,Staffed,NA,"Ibarra, Mcguire and Wells",Impl,2024-12-11,FIN,Offshore,Redwood HCM - Core HR and ORC,G5,2025-10-19,2026-10-21,0.8
+3958,Open,NA,Robinson-Wilson,CEMS,2024-06-08,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-11-13,2026-09-16,0.6
+8346,Staffed,NA,Miller-Phelps,CEMS,2024-06-10,FIN,Onsite,Core HR & Payroll,G8,2024-12-25,2026-04-16,0.6
+1002,Staffed,AMEA,Lucas Inc,Impl,2024-07-03,HCM,Offshore,Redwood HCM - Core HR and ORC,G8,2025-11-05,2026-03-25,0.8
+4423,Staffed,EUK,Brown Ltd,Impl,2024-07-26,FIN,Onsite,Redwood HCM - Core HR and ORC,G10,2025-08-26,2026-12-06,0.6
+2488,Staffed,NA,Kline Inc,CEMS,2024-12-05,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-05-08,2026-06-01,0.6
+5134,Staffed,AMEA,Shaw Group,Impl,2024-01-26,HCM,Onsite,Core HR & Payroll,T2,2025-06-13,2026-03-13,0.9
+8612,Staffed,NA,Perez Group,Impl,2024-01-29,FIN,Offshore,Onboarding Journeys,G5,2025-05-10,2026-02-25,1.0
+8178,Open,AMEA,Wilson-Shaw,Impl,2024-11-07,HCM,Offshore,Onboarding Journeys,G10,2025-10-01,2026-07-31,0.7
+9792,Staffed,EUK,Fowler-Barry,CEMS,2024-08-09,FIN,Onsite,Onboarding Journeys,G8,2025-05-20,2026-11-28,0.6
+5728,Open,NA,"Williams, Nichols and Gray",Impl,2024-10-05,HCM,Onsite,"Core HR,Talent",G8,2025-12-12,2026-03-29,0.9
+8693,Open,NA,"Long, Ross and Anthony",Impl,2024-02-02,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-10-30,2026-04-01,0.6
+8389,Staffed,EUK,"Ball, Keller and Castillo",Impl,2024-04-29,FIN,Onsite,Redwood HCM - Core HR and ORC,T2,2024-12-31,2026-06-15,1.0
+4180,Open,EUK,Gilbert-Stokes,CEMS,2024-10-25,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-11-25,2026-09-18,0.5
+6746,Staffed,EUK,Rush-Carson,CEMS,2024-01-07,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-11-12,2026-07-11,0.6
+7169,Staffed,AMEA,"Lang, Perry and Duran",CEMS,2024-06-01,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-04-06,2026-11-15,0.7
+4447,Staffed,NA,Garza-Robinson,CEMS,2024-07-26,HCM,Onsite,Redwood HCM - Core HR and ORC,G5,2025-05-15,2026-02-23,0.6
+9733,Staffed,AMEA,"Collier, Elliott and Ali",Impl,2024-01-29,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-02-11,2026-08-23,0.9
+7736,Staffed,AMEA,Ramirez-Wilson,Impl,2024-08-03,FIN,Onsite,Onboarding Journeys,T2,2025-08-10,2026-09-04,0.6
+1816,Open,EUK,"Moore, Parsons and Scott",Impl,2024-07-19,HCM,Onsite,Core HR & Payroll,G8,2025-03-04,2026-04-28,0.7
+4940,Staffed,AMEA,"Schultz, Morgan and Moses",Impl,2024-03-07,HCM,Onsite,Redwood HCM - Core HR and ORC,G6,2025-01-06,2026-06-13,0.7
+6055,Open,NA,Brown LLC,CEMS,2024-11-11,FIN,Onsite,Onboarding Journeys,T2,2025-04-18,2026-11-07,1.0
+4198,Open,NA,Mclaughlin Ltd,Impl,2024-07-12,HCM,Offshore,"Core HR,Talent",G6,2025-02-15,2026-01-08,1.0
+2092,Staffed,NA,Mcgee-Bartlett,CEMS,2024-08-06,HCM,Onsite,"Core HR,Talent",T2,2025-08-28,2026-11-29,0.7
+5862,Staffed,EUK,Davis Ltd,CEMS,2024-07-12,HCM,Onsite,"Core HR,Talent",G8,2025-07-07,2026-08-31,0.6
+6876,Open,NA,"Kennedy, Rogers and Kennedy",CEMS,2024-08-14,FIN,Onsite,Core HR & Payroll,T2,2025-08-06,2026-10-23,0.8
+9136,Staffed,AMEA,Wang Group,CEMS,2024-11-10,HCM,Onsite,"Core HR,Talent",G6,2025-02-10,2026-06-14,0.9
+7714,Open,AMEA,Leon and Sons,Impl,2024-07-20,FIN,Offshore,Redwood HCM - Core HR and ORC,G6,2025-04-14,2026-04-15,0.9
+7469,Staffed,EUK,Alvarez Ltd,Impl,2024-10-31,HCM,Offshore,Redwood HCM - Core HR and ORC,G6,2025-07-28,2026-08-07,0.6
+8377,Open,NA,Rowe LLC,CEMS,2024-09-24,HCM,Offshore,"Core HR,Talent",G5,2025-12-10,2026-09-27,0.9
+6797,Staffed,NA,Robinson-King,CEMS,2024-04-14,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-02-07,2026-07-31,0.7
+9497,Staffed,EUK,"White, Rodriguez and Weaver",CEMS,2024-02-14,FIN,Onsite,"Core HR,Talent",G5,2025-07-14,2026-01-15,0.9
+2564,Open,AMEA,"Hamilton, Zamora and Boyle",CEMS,2024-10-19,FIN,Onsite,Core HR & Payroll,T2,2025-11-28,2026-08-26,0.5
+7681,Staffed,AMEA,"Rodriguez, Leon and Tanner",Impl,2024-07-18,FIN,Offshore,Redwood HCM - Core HR and ORC,G5,2024-12-16,2026-12-12,0.9
+8445,Open,AMEA,Raymond Group,CEMS,2024-12-12,FIN,Offshore,Core HR & Payroll,G10,2025-09-23,2026-01-19,1.0
+2085,Open,EUK,"Porter, Goodwin and Castro",Impl,2024-12-02,FIN,Onsite,Onboarding Journeys,G5,2025-12-01,2026-03-01,1.0
+1619,Staffed,NA,"Marshall, Conner and Newman",CEMS,2024-01-03,HCM,Offshore,Core HR & Payroll,T2,2025-04-12,2026-05-21,0.7
+1546,Staffed,AMEA,Martinez-Castro,Impl,2024-03-29,HCM,Offshore,Redwood HCM - Core HR and ORC,G6,2024-12-27,2026-03-27,0.5
+9217,Staffed,NA,"Pena, Mcneil and Bailey",Impl,2024-11-12,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-05-12,2026-08-16,0.9
+3006,Staffed,EUK,"Martinez, Woodward and Allen",CEMS,2023-12-15,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-07-30,2026-04-14,0.7
+5931,Staffed,AMEA,Ferguson-Gomez,Impl,2024-03-09,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-12-10,2026-01-04,0.6
+5876,Staffed,EUK,Barnett LLC,CEMS,2024-11-12,HCM,Onsite,Core HR & Payroll,G10,2025-01-07,2026-09-14,0.8
+7868,Staffed,NA,"Harris, Dean and Reese",CEMS,2024-04-07,HCM,Onsite,Onboarding Journeys,G10,2025-01-03,2025-12-20,1.0
+5659,Open,NA,Smith-Brown,CEMS,2024-03-08,HCM,Onsite,"Core HR,Talent",G10,2025-03-02,2026-06-10,0.9
+3358,Open,EUK,Clark-Gibson,Impl,2024-12-02,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-01-03,2026-04-28,0.9
+5577,Staffed,NA,Schroeder-Simmons,Impl,2024-05-20,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-03-01,2026-01-15,1.0
+5787,Staffed,AMEA,Ortiz Ltd,CEMS,2024-05-07,FIN,Onsite,Redwood HCM - Core HR and ORC,G10,2025-07-28,2026-11-22,1.0
+9361,Open,NA,Nguyen PLC,Impl,2024-11-09,HCM,Offshore,Redwood HCM - Core HR and ORC,T2,2025-05-14,2026-05-13,0.6
+7071,Open,NA,Martin-Sanchez,Impl,2024-11-26,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-10-25,2026-06-12,1.0
+3056,Staffed,NA,"Cruz, Myers and Gross",Impl,2024-04-13,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-08-09,2026-02-03,0.8
+4083,Open,EUK,Donovan Inc,CEMS,2024-04-30,FIN,Offshore,Core HR & Payroll,G10,2025-08-18,2026-01-14,0.9
+2557,Open,AMEA,Marquez-Robinson,CEMS,2024-02-15,FIN,Offshore,Onboarding Journeys,G10,2025-07-14,2026-05-02,0.9
+2751,Staffed,NA,"Brady, Cruz and Pratt",CEMS,2024-07-30,FIN,Offshore,Core HR & Payroll,G6,2024-12-29,2026-02-14,0.6
+7504,Open,EUK,"Wang, Curry and Black",Impl,2024-04-29,FIN,Onsite,Redwood HCM - Core HR and ORC,G8,2025-06-16,2026-02-15,0.9
+7412,Open,NA,"Frost, Franklin and Browning",Impl,2024-08-16,FIN,Onsite,Onboarding Journeys,T2,2025-07-03,2026-02-19,0.6
+5623,Staffed,AMEA,Burke Group,CEMS,2024-11-12,HCM,Onsite,Onboarding Journeys,G6,2025-10-06,2026-03-22,0.6
+6132,Open,EUK,Flores-Williams,CEMS,2024-03-15,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-03-01,2026-12-04,0.9
+2448,Open,AMEA,"Gutierrez, Garza and Kelly",CEMS,2024-01-17,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-05-21,2025-12-15,0.7
+4302,Staffed,NA,Wang and Sons,CEMS,2024-07-08,HCM,Offshore,"Core HR,Talent",T2,2025-04-29,2026-11-25,0.9
+1199,Staffed,AMEA,Walter and Sons,CEMS,2024-10-13,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-07-24,2026-02-18,0.7
+5782,Open,AMEA,Bennett-Miller,CEMS,2024-09-09,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-05-06,2026-08-08,0.9
+9300,Staffed,AMEA,Aguirre PLC,CEMS,2024-09-16,FIN,Offshore,Core HR & Payroll,G6,2025-02-20,2026-01-25,0.6
+5491,Staffed,AMEA,Hill Ltd,Impl,2024-05-20,HCM,Onsite,Redwood HCM - Core HR and ORC,G8,2025-10-15,2026-09-03,0.7
+7489,Staffed,NA,Nguyen-Mitchell,CEMS,2024-08-01,FIN,Onsite,Core HR & Payroll,G5,2025-01-21,2026-03-09,0.6
+8861,Staffed,AMEA,Miller-Carter,Impl,2024-02-24,FIN,Offshore,Redwood HCM - Core HR and ORC,G8,2025-02-03,2026-06-17,0.8
+4846,Staffed,EUK,Graham Ltd,CEMS,2024-03-05,FIN,Onsite,Core HR & Payroll,G10,2025-04-04,2026-01-11,0.7
+3088,Staffed,EUK,Sanchez-Lucas,CEMS,2024-10-17,FIN,Offshore,Core HR & Payroll,T2,2025-06-25,2026-05-05,0.8
+1573,Open,NA,"Miller, May and Nelson",CEMS,2024-04-30,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-09-02,2026-07-04,0.9
+2691,Staffed,NA,Hudson Ltd,Impl,2024-10-25,HCM,Onsite,Core HR & Payroll,G8,2025-02-06,2026-02-22,0.7
+4347,Open,NA,Young-Thomas,Impl,2024-08-31,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G8,2025-11-27,2026-06-14,0.6
+9255,Open,NA,"Hardin, Wright and Casey",CEMS,2024-08-23,FIN,Offshore,"Core HR,Talent",G5,2025-05-25,2026-01-03,0.7
+3884,Open,EUK,Garner-Roberts,CEMS,2024-10-14,HCM,Onsite,"Core HR,Talent",G6,2025-05-02,2026-01-14,0.6
+9826,Staffed,AMEA,"Johnson, Whitaker and Miller",Impl,2024-07-04,FIN,Onsite,Redwood HCM - Core HR and ORC,T2,2025-05-22,2026-07-07,1.0
+1042,Open,NA,Knight and Sons,Impl,2024-08-15,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-10-04,2026-04-13,0.7
+1107,Staffed,EUK,Williams-Bell,Impl,2024-09-05,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-11-17,2026-02-04,0.9
+8962,Open,NA,"Romero, Jones and Evans",CEMS,2024-02-15,HCM,Offshore,Core HR & Payroll,G6,2025-09-13,2026-03-26,0.6
+2085,Open,NA,"Reyes, Leonard and Cantu",CEMS,2023-12-21,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-11-22,2026-10-17,0.6
+8582,Staffed,AMEA,Hall-Heath,Impl,2024-02-08,HCM,Offshore,Redwood HCM - Core HR and ORC,G8,2025-04-12,2026-03-20,0.8
+3453,Open,AMEA,"Johnson, Hansen and Acevedo",Impl,2024-01-01,HCM,Offshore,"Core HR,Talent",G10,2025-12-10,2026-04-16,0.8
+6242,Open,NA,Mendoza and Sons,CEMS,2024-07-01,HCM,Onsite,Redwood HCM - Core HR and ORC,T2,2025-04-27,2026-08-30,0.9
+7295,Open,AMEA,Pollard-Roy,CEMS,2024-11-29,HCM,Offshore,Core HR & Payroll,G10,2025-04-27,2026-07-17,0.7
+1194,Open,NA,Sanchez Inc,Impl,2024-09-08,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G8,2025-12-12,2026-07-18,0.7
+9325,Open,EUK,Andersen-Patterson,CEMS,2024-07-03,FIN,Onsite,"Core HR,Talent",G5,2025-06-15,2026-02-21,0.8
+6080,Staffed,NA,"Davis, Perry and Rodriguez",CEMS,2024-12-01,HCM,Offshore,Redwood HCM - Core HR and ORC,T2,2025-06-11,2026-03-17,0.7
+1509,Staffed,EUK,Johnson-Roberson,Impl,2024-08-04,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G10,2025-11-03,2026-11-07,0.6
+6230,Staffed,EUK,Mcclure and Sons,Impl,2024-11-02,FIN,Offshore,"Core HR,Talent",G5,2025-05-28,2026-11-01,0.8
+6820,Open,EUK,"Harvey, Chavez and Howard",CEMS,2024-01-15,FIN,Offshore,Onboarding Journeys,G6,2025-07-21,2026-04-08,0.6
+1059,Staffed,AMEA,"Hansen, Powers and Guzman",Impl,2024-10-27,FIN,Onsite,"Core HR,Talent",G8,2025-03-13,2026-02-27,0.9
+4054,Staffed,AMEA,Farrell LLC,CEMS,2024-03-04,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-05-15,2026-04-18,0.5
+6887,Staffed,AMEA,"Williams, Larsen and Price",Impl,2024-06-09,FIN,Offshore,Onboarding Journeys,G6,2025-06-16,2026-10-21,1.0
+1705,Staffed,NA,Avery-Watkins,Impl,2024-06-19,FIN,Offshore,"Core HR,Talent",G8,2025-04-02,2026-08-07,0.9
+7129,Staffed,EUK,Chung-Daniels,Impl,2024-04-16,FIN,Onsite,Onboarding Journeys,T2,2024-12-15,2026-10-30,0.8
+1615,Open,AMEA,Watkins LLC,CEMS,2024-07-05,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-04-22,2026-06-16,0.8
+1645,Open,AMEA,Whitehead-Smith,Impl,2024-08-19,FIN,Onsite,"Core HR,Talent",T2,2025-07-11,2026-11-19,0.9
+7366,Open,EUK,Davis Inc,Impl,2024-10-13,FIN,Offshore,"Core HR,Talent",G10,2025-01-25,2026-10-03,0.7
+3995,Staffed,AMEA,Collier and Sons,CEMS,2024-07-03,FIN,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G8,2025-06-17,2026-11-29,0.9
+2945,Open,AMEA,"Malone, Burke and Mendoza",CEMS,2024-03-04,FIN,Onsite,Onboarding Journeys,G6,2025-02-03,2026-10-26,0.9
+4766,Open,AMEA,"Andersen, Hardy and Pruitt",CEMS,2024-08-27,FIN,Offshore,Core HR & Payroll,G6,2025-05-22,2026-01-12,0.9
+8067,Staffed,EUK,"Lindsey, Richardson and Good",CEMS,2024-01-02,FIN,Offshore,Core HR & Payroll,G6,2025-04-03,2026-05-21,0.8
+1796,Staffed,EUK,Williams Ltd,CEMS,2024-04-20,HCM,Onsite,Onboarding Journeys,G5,2025-01-10,2026-10-14,0.8
+1447,Open,AMEA,Thomas-Allen,CEMS,2024-02-26,HCM,Onsite,Redwood HCM - Core HR and ORC,G10,2025-11-19,2026-04-24,0.6
+6811,Staffed,NA,"Carroll, Adams and Hampton",CEMS,2024-01-26,FIN,Onsite,Redwood HCM - Core HR and ORC,G10,2024-12-29,2026-08-14,0.7
+3071,Staffed,NA,"Burns, Noble and Cannon",Impl,2024-02-07,FIN,Offshore,Onboarding Journeys,T2,2025-04-15,2026-03-27,0.8
+9322,Open,NA,Petersen-Brown,CEMS,2023-12-28,HCM,Offshore,Redwood HCM - Core HR and ORC,G8,2025-05-27,2026-05-26,0.8
+2142,Staffed,EUK,Ryan-Rivera,CEMS,2024-10-26,HCM,Offshore,Onboarding Journeys,G5,2025-03-06,2026-02-11,0.8
+9946,Open,EUK,Frey Group,CEMS,2024-11-20,HCM,Onsite,Redwood HCM - Core HR and ORC,G8,2025-09-30,2026-11-09,0.5
+4315,Staffed,NA,"Ruiz, Johnson and Simmons",CEMS,2024-08-29,HCM,Offshore,"Core HR,Talent",G8,2025-10-28,2026-09-29,0.5
+5297,Open,NA,"Murphy, Evans and Silva",CEMS,2024-01-24,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-10-28,2026-05-29,0.9
+7725,Open,EUK,Moody-Allen,CEMS,2023-12-24,HCM,Offshore,Onboarding Journeys,G10,2025-09-03,2026-02-23,0.7
+9357,Open,AMEA,"White, Shields and Holmes",Impl,2024-01-17,FIN,Offshore,"Core HR,Talent",G10,2025-02-25,2026-01-27,0.8
+7484,Open,EUK,Cuevas and Sons,Impl,2024-04-07,HCM,Onsite,Redwood HCM - Core HR and ORC,G8,2025-04-29,2026-03-23,0.6
+8300,Staffed,AMEA,Johnson Inc,Impl,2024-02-06,HCM,Onsite,Onboarding Journeys,G6,2025-09-04,2026-01-21,0.8
+9134,Open,AMEA,"Vega, Black and Newman",Impl,2024-06-10,FIN,Onsite,"Core HR,Talent",T2,2025-07-28,2026-02-28,0.5
+7049,Staffed,NA,Allen Ltd,Impl,2024-04-02,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-01-20,2026-03-17,0.8
+3378,Staffed,NA,"Brown, Murphy and Greer",Impl,2024-07-26,FIN,Onsite,Core HR & Payroll,T2,2025-08-26,2025-12-24,0.5
+2554,Staffed,EUK,Frank PLC,CEMS,2024-11-09,HCM,Onsite,Onboarding Journeys,G5,2025-09-07,2026-01-13,0.8
+7879,Staffed,AMEA,Ramirez Ltd,Impl,2024-03-28,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-10-05,2026-11-23,0.7
+1298,Open,AMEA,"Hernandez, Lynch and Underwood",CEMS,2024-09-27,HCM,Offshore,"Core HR,Talent",G10,2025-01-18,2026-06-18,1.0
+1690,Staffed,AMEA,Park-Cameron,Impl,2024-10-02,HCM,Onsite,Core HR & Payroll,G5,2025-07-13,2026-07-26,1.0
+2881,Staffed,EUK,Lane and Sons,CEMS,2024-10-08,FIN,Offshore,Core HR & Payroll,G10,2025-05-27,2026-03-15,0.9
+3834,Staffed,NA,Hamilton Inc,CEMS,2024-08-28,FIN,Offshore,Onboarding Journeys,G6,2025-05-23,2026-04-18,0.9
+6992,Open,AMEA,"Smith, Davis and Holden",Impl,2024-04-04,FIN,Onsite,"Core HR,Talent",G10,2025-08-31,2026-04-01,0.9
+7797,Open,AMEA,"Wilkins, Cook and Evans",CEMS,2024-08-27,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G5,2025-09-26,2026-08-19,0.9
+7758,Staffed,NA,"Dickerson, Sandoval and Rocha",Impl,2024-09-13,FIN,Offshore,"Core HR,Talent",G8,2025-05-06,2026-04-09,0.9
+7981,Staffed,AMEA,"Mcconnell, Long and Arellano",CEMS,2024-10-27,HCM,Onsite,Redwood HCM - Core HR and ORC,T2,2024-12-30,2026-01-27,0.8
+4576,Staffed,EUK,"Diaz, Miles and Hart",CEMS,2024-06-28,HCM,Onsite,Redwood HCM - Core HR and ORC,G6,2025-04-11,2026-02-02,0.8
+2059,Open,EUK,Mckay-Kim,CEMS,2024-02-11,FIN,Offshore,Redwood HCM - Core HR and ORC,G5,2025-02-04,2026-09-15,0.5
+9800,Staffed,AMEA,Brown-Singleton,CEMS,2024-01-21,HCM,Onsite,"Core HR,Talent",G5,2025-07-26,2026-02-20,0.6
+7716,Staffed,NA,"Farmer, Warren and Hicks",Impl,2024-03-07,HCM,Offshore,Onboarding Journeys,G10,2024-12-22,2026-03-08,0.6
+6617,Staffed,EUK,Peterson-Lloyd,Impl,2024-06-29,HCM,Offshore,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2025-04-10,2026-02-03,0.7
+7029,Staffed,EUK,"Chandler, Clark and Hunter",CEMS,2024-01-01,FIN,Offshore,Onboarding Journeys,G8,2025-09-16,2026-05-25,0.9
+4258,Open,NA,"Young, Robertson and Pacheco",Impl,2024-05-16,FIN,Offshore,Onboarding Journeys,G5,2025-01-21,2026-09-06,0.8
+6927,Open,NA,Bowers-Jones,CEMS,2024-09-25,HCM,Offshore,Onboarding Journeys,T2,2025-08-31,2026-01-17,0.8
+8026,Open,AMEA,Baker-Williams,Impl,2024-02-13,HCM,Onsite,Onboarding Journeys,G5,2025-09-15,2026-10-08,0.8
+6274,Open,NA,"Harris, Jackson and Hull",CEMS,2024-09-12,HCM,Offshore,Core HR & Payroll,G5,2025-07-02,2026-10-07,0.6
+8364,Open,EUK,Smith-Hampton,Impl,2024-11-28,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",T2,2024-12-22,2026-04-27,1.0
+1631,Staffed,EUK,Walker LLC,Impl,2024-06-21,HCM,Onsite,Redwood HCM - Core HR and ORC,G10,2025-04-17,2026-09-01,0.5
+8829,Staffed,NA,Cain LLC,Impl,2024-02-16,FIN,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G8,2025-05-11,2026-12-12,0.6
+8432,Staffed,EUK,Perez-Osborne,CEMS,2023-12-20,FIN,Onsite,Core HR & Payroll,G6,2025-01-14,2026-06-02,0.6
+1372,Open,EUK,Miller LLC,Impl,2024-03-05,FIN,Offshore,Onboarding Journeys,G8,2025-10-06,2026-03-12,0.5
+5969,Open,AMEA,Freeman and Sons,CEMS,2024-11-26,HCM,Offshore,Onboarding Journeys,T2,2025-06-18,2026-10-21,0.8
+6465,Open,NA,"Roberts, Davis and Hodges",Impl,2024-04-01,HCM,Offshore,Redwood HCM - Core HR and ORC,G10,2025-06-16,2026-06-18,0.8
+5813,Open,EUK,Garcia-Macdonald,CEMS,2024-01-24,FIN,Offshore,Redwood HCM - Core HR and ORC,G6,2025-11-03,2026-06-12,0.6
+6553,Open,AMEA,Smith and Sons,CEMS,2024-07-04,HCM,Offshore,Redwood HCM - Core HR and ORC,G10,2025-03-26,2026-06-06,0.5
+6855,Staffed,AMEA,Andersen LLC,CEMS,2024-04-09,FIN,Onsite,Core HR & Payroll,G10,2025-12-02,2026-10-18,0.6
+5452,Staffed,EUK,"Combs, Galvan and Elliott",CEMS,2024-10-31,FIN,Offshore,Onboarding Journeys,G10,2025-02-18,2026-01-22,0.6
+7864,Staffed,AMEA,Rodriguez-Gonzales,CEMS,2024-06-10,HCM,Offshore,Core HR & Payroll,G8,2025-07-16,2026-11-18,0.9
+9790,Open,NA,"Avila, Davidson and Ponce",CEMS,2024-01-05,HCM,Offshore,Onboarding Journeys,T2,2025-02-19,2026-06-19,0.8
+6882,Open,AMEA,"Walker, Parker and Miller",Impl,2024-06-09,HCM,Onsite,"ORC, Core HR, Absence, Benefits, Talent and Compensation.",G6,2025-08-05,2026-09-15,0.8
